@@ -28,6 +28,4 @@ Attacks.
 
 Sample case on appointments.
 
-### Results
 
-TBA
